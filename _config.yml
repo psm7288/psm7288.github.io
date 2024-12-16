@@ -22,7 +22,7 @@ title_separator          : "-"
 future                   : true 
 publicshed               : true
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Sumin Park"
 description              : "An amazing website."
 url                      : "https://psm7288.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

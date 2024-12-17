@@ -1,8 +1,8 @@
-# main links
-main:
-  - title: "github-url"
+# # main links
+# main:
+#   - title: "github-url"
   # Quick-Start Guide
-    url: https://github.com/psm7288 
+    # url: https://github.com/psm7288 
     # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
